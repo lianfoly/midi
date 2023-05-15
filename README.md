@@ -1,1 +1,2 @@
-# midi
+# midi project
+#midi education
